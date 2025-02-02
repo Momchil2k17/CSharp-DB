@@ -53,7 +53,9 @@ WITH Ranked AS
 			DENSE_RANK() OVER (PARTITION BY Salary ORDER BY EmployeeID) AS [Rank]
 	FROM Employees
 	WHERE Salary BETWEEN 10000 AND 50000)
-SELECT * FROM Ranked where rank=2ORDER BY Salary DESC
+SELECT * FROM Ranked 
+WHERE Rank=2
+ORDER BY Salary DESC
 
 
 --12
@@ -63,7 +65,7 @@ WHERE LEN(CountryName) - LEN(REPLACE(LOWER(CountryName), 'a', ''))>=3
 ORDER BY IsoCode
 
 --13
-SELECT PeakName,RiverName,LOWER(LEFT(PeakName,LEN(PeakName)-1)+RIGHT(RiverName,LEN(RiverName))) AS Mix FROM Peaks as p
+SELECT PeakName,RiverName,LOWER(LEFT(PeakName,LEN(PeakName)-1)+RiverName) AS Mix FROM Peaks as p
 JOIN Rivers as r
 ON RIGHT(PeakName,1)=LEFT(RiverName,1)
 ORDER BY Mix
