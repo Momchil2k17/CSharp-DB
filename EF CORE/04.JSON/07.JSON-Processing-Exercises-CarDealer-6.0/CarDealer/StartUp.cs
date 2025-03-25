@@ -1,7 +1,10 @@
-﻿using CarDealer.Data;
+﻿using AutoMapper;
+using CarDealer.Data;
 using CarDealer.DTOs.Import;
 using CarDealer.Models;
+using Castle.Core.Resource;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 using System.ComponentModel.DataAnnotations;
 using System.IO;
 
@@ -15,7 +18,7 @@ namespace CarDealer
 
             string jsonString = File.ReadAllText("../../../Datasets/sales.json");
 
-            string result = ImportSales(dbContext, jsonString);
+            string result = GetSalesWithAppliedDiscount(dbContext);
             Console.WriteLine(result);
         }
         public static string ImportSuppliers(CarDealerContext context, string inputJson) 
@@ -210,6 +213,177 @@ namespace CarDealer
             }
 
             return result;
+        }
+        public static string GetOrderedCustomers(CarDealerContext context)
+        {
+            var customers=context.Customers
+                .OrderBy(c=>c.BirthDate)
+                .ThenBy(c=>c.IsYoungDriver)
+                .Select(c => new
+                {
+                    c.Name,
+                    BirthDate=c.BirthDate.ToString("dd/MM/yyyy"),
+                    c.IsYoungDriver
+                })
+                .ToList();
+            DefaultContractResolver pascalCase = new DefaultContractResolver()
+            {
+                NamingStrategy = new DefaultNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(customers, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = pascalCase
+                });
+
+            return jsonResult;
+        }
+        public static string GetCarsFromMakeToyota(CarDealerContext context)
+        {
+            var cars=context.Cars
+                .Where(c=>c.Make=="Toyota")
+                .OrderBy(c=>c.Model)
+                .ThenByDescending(c=>c.TraveledDistance)
+                .Select(c => new
+                {
+                    c.Id,
+                    c.Make,
+                    c.Model,
+                    c.TraveledDistance,
+                })
+                .ToList();
+            DefaultContractResolver pascalCase = new DefaultContractResolver()
+            {
+                NamingStrategy = new DefaultNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(cars, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = pascalCase
+                });
+
+            return jsonResult;
+        }
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var cars = context.Cars
+                .Select(c => new
+                {
+                    car = new
+                    {
+                        c.Make,
+                        c.Model,
+                        c.TraveledDistance,
+                    },
+                    parts = c.PartsCars.Select(p => new
+                    {
+                        p.Part.Name,
+                        Price=p.Part.Price.ToString("f2")
+                    })
+                })
+                .ToList();
+          
+            DefaultContractResolver camelCaseResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new DefaultNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(cars, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = camelCaseResolver,
+                    NullValueHandling = NullValueHandling.Ignore
+                });
+
+            return jsonResult;
+        }
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .Where(c => c.Sales.Count > 0)
+                .Select(c => new
+                {
+                    FullName = c.Name,
+                    BoughtCars = c.Sales.Count,
+                    SpentMoney = c.Sales.Select(s =>
+                        s.Car.PartsCars.Select(p => p.Part.Price).Sum()
+                    )
+                })
+                .ToList();
+          
+            var res = customers.Select(c => new
+            {
+                c.FullName,
+                c.BoughtCars,
+                SpentMoney = c.SpentMoney.Sum()
+            }).OrderByDescending(c => c.SpentMoney)
+            .ThenByDescending(c => c.BoughtCars)
+                .ToList();
+            DefaultContractResolver camelCaseResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(res, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = camelCaseResolver,
+                });
+
+            return jsonResult;
+        }
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var suppliers=context.Suppliers
+                .Where(s=>s.IsImporter == false)
+                .Select(s => new
+                {
+                    s.Id,
+                    s.Name,
+                    PartsCount=s.Parts.Count,
+                })
+                .ToArray();
+            DefaultContractResolver pascalCase = new DefaultContractResolver()
+            {
+                NamingStrategy = new DefaultNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(suppliers, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = pascalCase
+                });
+
+            return jsonResult;
+        }
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Select(s => new
+                {
+                    car = new
+                    {
+                        s.Car.Make,
+                        s.Car.Model,
+                        s.Car.TraveledDistance,
+                    },
+                    customerName = s.Customer.Name,
+                    discount = s.Discount.ToString("f2"),
+                    price = s.Car.PartsCars.Sum(p => p.Part.Price).ToString("f2"),
+                    priceWithDiscount = (s.Car.PartsCars.Sum(p => p.Part.Price)*(1-s.Discount/100)).ToString("f2"),
+
+                })
+                .Take(10).
+                ToList();
+            //(s.Customer.IsYoungDriver ? 0m:0.05m)
+            DefaultContractResolver pascalCase = new DefaultContractResolver()
+            {
+                NamingStrategy = new DefaultNamingStrategy()
+            };
+            string jsonResult = JsonConvert
+                .SerializeObject(sales, Formatting.Indented, new JsonSerializerSettings()
+                {
+                    ContractResolver = pascalCase
+                });
+
+            return jsonResult;
         }
 
         public static bool IsValid(object dto)
