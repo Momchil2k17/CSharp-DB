@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportsaleswithapplieddiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportsaleswithapplieddiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exporttotalsalesbycustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exporttotalsalesbycustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportlocalsuppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportlocalsuppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarsfrommakebmwdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarsfrommakebmwdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarsoverdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarsoverdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarswithpartspartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarswithpartspartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarswithpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarswithpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\datasets\\suppliers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\suppliers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\cardealerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importcarpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcarpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Migrations\\20250328200258_Intitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarDealer\\Migrations\\20250328200258_Intitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\momoy\\desktop\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportCarsOverDistanceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsOverDistanceDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarsOverDistanceDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsOverDistanceDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarsOverDistanceDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:31:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportCarsFromMakeBMWDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsFromMakeBMWDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarsFromMakeBMWDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsFromMakeBMWDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarsFromMakeBMWDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:35:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportSalesWithAppliedDiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDto.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:37:10.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAgwJcBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:35:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportTotalSalesByCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportTotalSalesByCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportTotalSalesByCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportTotalSalesByCustomerDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportTotalSalesByCustomerDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:13:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportLocalSuppliersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportLocalSuppliersDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportLocalSuppliersDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportLocalSuppliersDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportLocalSuppliersDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:43:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCar.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCar.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCar.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCar.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCar.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:47:20.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportCarsWithPartsPartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsWithPartsPartDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarsWithPartsPartDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsWithPartsPartDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarsWithPartsPartDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:01:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportCarsWithPartsDto.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsWithPartsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarsWithPartsDto.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarsWithPartsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarsWithPartsDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:01:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImportPartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportPartDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportPartDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportPartDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportPartDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:32:37.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportCarPartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarPartDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCarPartDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarPartDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCarPartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:02:06.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Utilities\\XmlHelper.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "CarDealer\\Utilities\\XmlHelper.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:34:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "suppliers.xml",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Datasets\\suppliers.xml",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\suppliers.xml",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Datasets\\suppliers.xml",
+              "RelativeToolTip": "CarDealer\\Datasets\\suppliers.xml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-28T22:50:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarDealerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\CarDealerProfile.cs",
+              "RelativeDocumentMoniker": "CarDealer\\CarDealerProfile.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\CarDealerProfile.cs",
+              "RelativeToolTip": "CarDealer\\CarDealerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:36:31.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImportCarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCarDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCarDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:02:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarDealer",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\CarDealer.csproj",
+              "RelativeDocumentMoniker": "CarDealer\\CarDealer.csproj",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\CarDealer.csproj",
+              "RelativeToolTip": "CarDealer\\CarDealer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T20:02:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImportSupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSupplierDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSupplierDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSupplierDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSupplierDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:23:30.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportSaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSaleDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSaleDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSaleDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSaleDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:16:06.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCustomerDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:11:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250328200258_Intitial.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Migrations\\20250328200258_Intitial.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Migrations\\20250328200258_Intitial.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\Migrations\\20250328200258_Intitial.cs",
+              "RelativeToolTip": "CarDealer\\Migrations\\20250328200258_Intitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:02:58.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
