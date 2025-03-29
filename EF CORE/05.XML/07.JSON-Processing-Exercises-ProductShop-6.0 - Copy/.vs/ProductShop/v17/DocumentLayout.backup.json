@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\dtos\\export\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\dtos\\import\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\dtos\\import\\importuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\models\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\dtos\\import\\importcategoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importcategoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\datasets\\categories-products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\categories-products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\dtos\\import\\importcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\datasets\\categories.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\categories.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\datasets\\products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\datasets\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Migrations\\20250329103516_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductShop\\Migrations\\20250329103516_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\users\\momoy\\desktop\\07.json-processing-exercises-productshop-6.0 - copy\\productshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportCategoryProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportCategoryProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportCategoryProductDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportCategoryProductDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryProductDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAA1wLYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:07:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportCategoryDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportCategoryDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:56:04.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryProduct.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\CategoryProduct.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\CategoryProduct.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\CategoryProduct.cs",
+              "RelativeToolTip": "ProductShop\\Models\\CategoryProduct.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:01:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportUserDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportUserDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportUserDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportUserDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:38:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportProductDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Import\\ImportProductDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportProductDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:48:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Export\\ExportProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportProductDTO.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\DTOs\\Export\\ExportProductDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportProductDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:23:52.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "categories-products.xml",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\categories-products.xml",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\categories-products.xml",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\categories-products.xml",
+              "RelativeToolTip": "ProductShop\\Datasets\\categories-products.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T11:01:30.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\ProductShopContext.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeToolTip": "ProductShop\\Data\\ProductShopContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:33:53.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "users.xml",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\users.xml",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\users.xml",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\users.xml",
+              "RelativeToolTip": "ProductShop\\Datasets\\users.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T10:40:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "categories.xml",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\categories.xml",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\categories.xml",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\categories.xml",
+              "RelativeToolTip": "ProductShop\\Datasets\\categories.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T10:55:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "products.xml",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\products.xml",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\products.xml",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Datasets\\products.xml",
+              "RelativeToolTip": "ProductShop\\Datasets\\products.xml",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwKkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-29T10:47:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250329103516_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Migrations\\20250329103516_Initial.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Migrations\\20250329103516_Initial.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Migrations\\20250329103516_Initial.cs",
+              "RelativeToolTip": "ProductShop\\Migrations\\20250329103516_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:35:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\Category.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Category.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:34:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Utilities\\XmlHelper.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "ProductShop\\Utilities\\XmlHelper.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:46:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Data\\Configuration.cs",
+              "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:33:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\User.cs",
+              "RelativeToolTip": "ProductShop\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:02:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\momoy\\Desktop\\07.JSON-Processing-Exercises-ProductShop-6.0 - Copy\\ProductShop\\Models\\Product.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:03:00.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
